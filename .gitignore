@@ -4,5 +4,6 @@
 *.ri
 Backup*
 *.bk*
-*temp*
-*tmp*
+*.DFR
+*.ASD
+~$*
